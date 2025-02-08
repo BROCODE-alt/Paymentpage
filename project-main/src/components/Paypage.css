@@ -39,9 +39,9 @@ button:hover {
 }
 
 .success-message {
-    font-size: 18px;               /* Size of the text */
-    color: #28a745;                /* Green color for success */
-    font-weight: bold;             /* Make the text bold */
+    font-size: 18px;              
+    color: #28a745;                
+    font-weight: bold;             
    
 }
 
